@@ -8,8 +8,7 @@ In this activity I will set up a JavaScript project for the Leaderboard list app
     html 5 , css
     visual studio code
     
-# Link to the result of the website
- [ To-do List](https://khanetmoi.github.io/To-Do-list/)
+clone the project: https://github.com/Khanetmoi/leader.git
 
 # 👤 Author1
 
