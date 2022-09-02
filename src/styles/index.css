@@ -1,0 +1,49 @@
+body {
+  margin: 0 20px;
+  padding: 0;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.titles {
+  font-size: 20px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 10%;
+}
+
+#showScores {
+  margin: 0 10%;
+}
+
+#flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#scores :nth-child(even) {
+  background-color: gray;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+input {
+  width: 50%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  width: 15%;
+  height: 20px;
+}
