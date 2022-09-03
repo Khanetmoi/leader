@@ -1,20 +1,37 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # LeaderBoard
+
+
 In this activity I will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, I will consume the Leaderboard API using JavaScript async and await and add some styling.
+Built With
 
 # Built With
 
-    html 5 , css
-    visual studio code
+    - html 5 
+    - css
+    - webpack
     
-clone the project: https://github.com/Khanetmoi/leader.git
 
-# 👤 Author1
+-To view this project you need the following:
 
-    GitHub: @Khanetmoi
-    Twitter: @InayatVan
-    LinkedIn: Khan Bitsindou
+  # Prerequisites
+  
+    - Github account
+    - Code editor
+    - Git
+
+   #    Setup
+   - git init
+   - git clone https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
+   - cd into cloned project
+   - run npm install
+   - run npm start
+     
+
+# 👤 **Bitsindou Van Inayat-khan**
+
+- GitHub: [@Khanetmoi](https://github.com/Khanetmoi)
+- Twitter: [@InayatVan](https://twitter.com/InayatVan)
+- LinkedIn: [Khan Bitsindou](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
 
 
 
@@ -33,6 +50,3 @@ Acknowledgments
    
 
 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
