@@ -1,75 +1,40 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
+# LeaderBoard
 
 
-## Built With
+In this activity I will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, I will consume the Leaderboard API using JavaScript async and await and add some styling.
+Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+# Built With
 
-## Live Demo (if available)
+    html 5 , css
+    visual studio code
+    
+# Getting started
 
-[Live Demo Link](https://livedemo.com)
+    
+   #    Install
+     https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
 
+# 👤 **Bitsindou Van Inayat-khan**
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- GitHub: [@Khanetmoi](https://github.com/Khanetmoi)
+- Twitter: [@InayatVan](https://twitter.com/InayatVan)
+- LinkedIn: [Khan Bitsindou](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
 
 
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+# 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
+Feel free to check the issues page.
+Show your support
 
 Give a ⭐️ if you like this project!
+Acknowledgments
 
-## Acknowledgments
+    Hat tip to anyone whose code was used
+    Inspiration
+   
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+📝 License
