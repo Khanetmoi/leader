@@ -10,11 +10,6 @@ Built With
     - css
     - webpack
     
-# Live Demo
- - [comming soon](https://github.com/Khanetmoi/leader/tree/LeaderboardAPI)
-
-   
-![pic](https://user-images.githubusercontent.com/94435424/188250729-dc873858-1d8c-40ff-a394-4a33c230ac56.png)
 
 -To view this project you need the following:
 
