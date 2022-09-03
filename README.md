@@ -6,14 +6,31 @@ Built With
 
 # Built With
 
-    html 5 , css
-    visual studio code
+    - html 5 
+    - css
+    - webpack
     
-# Getting started
+# Live Demo
+ - [comming soon](https://github.com/Khanetmoi/leader/tree/LeaderboardAPI)
 
-    
-   #    Install
-     https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
+   
+![pic](https://user-images.githubusercontent.com/94435424/188250729-dc873858-1d8c-40ff-a394-4a33c230ac56.png)
+
+-To view this project you need the following:
+
+  # Prerequisites
+  
+    - Github account
+    - Code editor
+    - Git
+
+   #    Setup
+   - git init
+   - git clone https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
+   - cd into cloned project
+   - run npm install
+   -run npm start
+     
 
 # 👤 **Bitsindou Van Inayat-khan**
 
