@@ -19,12 +19,11 @@ main {
 
 #showScores {
   margin: 0 10%;
-  
 }
 
 #scores {
-    height: 50vh;
-    overflow-y: scroll;
+  height: 50vh;
+  overflow-y: scroll;
 }
 
 #flex {
