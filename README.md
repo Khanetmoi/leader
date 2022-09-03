@@ -1,6 +1,7 @@
 # LeaderBoard
 
 
+
 In this activity I will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, I will consume the Leaderboard API using JavaScript async and await and add some styling.
 Built With
 
@@ -22,7 +23,6 @@ Built With
 - LinkedIn: [Khan Bitsindou](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
 
 
-
 # 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -35,6 +35,8 @@ Acknowledgments
 
     Hat tip to anyone whose code was used
     Inspiration
-   
 
 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
