@@ -19,6 +19,12 @@ main {
 
 #showScores {
   margin: 0 10%;
+  
+}
+
+#scores {
+    height: 50vh;
+    overflow-y: scroll;
 }
 
 #flex {
@@ -28,7 +34,7 @@ main {
 }
 
 #scores :nth-child(even) {
-  background-color: gray;
+  background-color: rgb(213, 188, 188);
 }
 
 form {
