@@ -24,7 +24,7 @@ Built With
    - git clone https://khanetmoi.github.io/Portfolio-setup-and-mobile-version-skeleton/
    - cd into cloned project
    - run npm install
-   -run npm start
+   - run npm start
      
 
 # 👤 **Bitsindou Van Inayat-khan**
